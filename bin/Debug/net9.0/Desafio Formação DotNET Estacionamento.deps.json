@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Desafio Formação DotNET Estacionamento/1.0.0": {
+        "runtime": {
+          "Desafio Formação DotNET Estacionamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio Formação DotNET Estacionamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

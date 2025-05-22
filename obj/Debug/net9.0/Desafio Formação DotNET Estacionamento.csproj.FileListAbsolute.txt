@@ -1,0 +1,14 @@
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\bin\Debug\net9.0\Desafio Formação DotNET Estacionamento.exe
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\bin\Debug\net9.0\Desafio Formação DotNET Estacionamento.deps.json
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\bin\Debug\net9.0\Desafio Formação DotNET Estacionamento.runtimeconfig.json
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\bin\Debug\net9.0\Desafio Formação DotNET Estacionamento.dll
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\bin\Debug\net9.0\Desafio Formação DotNET Estacionamento.pdb
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\Desafio Formação DotNET Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\Desafio Formação DotNET Estacionamento.AssemblyInfoInputs.cache
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\Desafio Formação DotNET Estacionamento.AssemblyInfo.cs
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\Desafio Formação DotNET Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\Desafio Formação DotNET Estacionamento.dll
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\refint\Desafio Formação DotNET Estacionamento.dll
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\Desafio Formação DotNET Estacionamento.pdb
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\Desafio Formação DotNET Estacionamento.genruntimeconfig.cache
+C:\Users\AMD\OneDrive\Documentos\.NET\DIO Curso\Desafio Formação DotNET Estacionamento\obj\Debug\net9.0\ref\Desafio Formação DotNET Estacionamento.dll
