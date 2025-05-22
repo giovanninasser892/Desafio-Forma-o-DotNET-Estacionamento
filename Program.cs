@@ -1,11 +1,11 @@
-﻿using System.ComponentModel;
+using System.ComponentModel;
 using System.Security.Cryptography;
 using System;
 
 Console.WriteLine("Digite o Preço Inicial");
-int precoinicial = Convert.ToInt32(Console.ReadLine());
+decimal precoinicial = Convert.ToDecimal(Console.ReadLine());
 Console.WriteLine("Digite o Preço por Hora");
-int precoporhora = Convert.ToInt32(Console.ReadLine());
+decimal precoporhora = Convert.ToDecimal(Console.ReadLine());
 
 List<string> PlacaDoVeiculo = new List<string>();
 string placa = String.Empty;
@@ -37,7 +37,7 @@ do
       if (PlacaDoVeiculo.Contains(placaremover))
       {
         PlacaDoVeiculo.Remove(placa);
-        Console.WriteLine($"O Veiculo {placa} foi removido e o preço total foi de:  {(quantidadedehoras*precoporhora) + precoinicial}");
+        Console.WriteLine($"O Veiculo {placa} foi removido e o preço total foi de: {(quantidadedehoras*precoporhora) + precoinicial}");
       }
       else
       {
@@ -69,4 +69,3 @@ do
       break;
   }
 } while (numero != 4);
-  
